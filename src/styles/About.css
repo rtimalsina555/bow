@@ -24,6 +24,8 @@
   
   .aboutBottom p {
     width: 1200px;
+    color: black;
+    font-style: italic;
   }
   
   .about .aboutBottom h1 {
